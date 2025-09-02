@@ -21,6 +21,6 @@ Frontend E2E test passed successfully ✅
 
 ### How to Run
 ```bash 
-npm install cypress --save-dev
 cd InterviewFrontendTest
+npm install cypress --save-dev
 npx cypress run
